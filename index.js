@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var sizzle = require('sizzle');
+var sizzle = require('cristiandouce-sizzle');
 
 /**
  * Return single match element by
